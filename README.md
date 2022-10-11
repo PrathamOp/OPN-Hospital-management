@@ -1,4 +1,3 @@
 # Hospital-Management-Html
 A decent Hospital Management System which is created using Html, css and Bootstrap.
-
-You can check it out from here - https://nirravv.github.io/Hospital-Management-Html/
+This management system offers various features to the management staff of the hospital and makes it help in organizing and maintaining the patients record for the Hospital.
